@@ -1,0 +1,26 @@
+{
+  "name": "my-first-smart-contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munir2029/my-first-smart-contract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Munir2029/my-first-smart-contract/issues"
+  },
+  "homepage": "https://github.com/Munir2029/my-first-smart-contract#readme",
+  "devDependencies": {
+    "@types/node": "^22.19.11",
+    "hardhat": "^2.22.2",
+    "ts-node": "^10.9.2",
+    "typescript": "~5.8.0"
+  }
+}
