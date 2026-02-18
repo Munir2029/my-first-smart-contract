@@ -1,7 +1,14 @@
-# Sample Hardhat 3 Beta Project (minimal)
+# My First Smart Contract
 
-This project has a minimal setup of Hardhat 3 Beta, without any plugins.
+## English
+This is my first smart contract.
+I created it to start learning Solidity and understand how smart contracts work.
 
-## What's included?
+## Deutsch
+Dies ist mein erster Smart Contract.
+Ich habe ihn erstellt, um Solidity zu lernen und zu verstehen, wie Smart Contracts funktionieren.
 
-The project includes native support for TypeScript, Hardhat scripts, tasks, and support for Solidity compilation and tests.
+## العربية
+هذا هو أول عقد ذكي لي.
+أنشأته لأتعلم Solidity وأفهم كيف تعمل العقود الذكية.
+
