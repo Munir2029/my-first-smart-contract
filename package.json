@@ -18,9 +18,12 @@
   },
   "homepage": "https://github.com/Munir2029/my-first-smart-contract#readme",
   "devDependencies": {
-    "@types/node": "^22.19.11",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@types/node": "^18.19.0",
+    "chai": "^6.2.2",
+    "ethers": "^5.8.0",
     "hardhat": "^2.22.2",
     "ts-node": "^10.9.2",
-    "typescript": "~5.8.0"
+    "typescript": "~5.2.2"
   }
 }
